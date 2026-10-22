@@ -5,7 +5,7 @@
 
 Me gusta la programación y crear soluciones a través de la tecnología. He desarrollado proyectos web y aplicaciones utilizando principalmente C# y .NET. Continúo aprendiendo y fortaleciendo mis conocimientos en el desarrollo de software.
 
-Tecnologías que he utilizado
+## Tecnologías que he utilizado
 
 - **Lenguajes:** C#, HTML, CSS
 - **Backend:** .NET, ASP.NET Core, API REST
@@ -14,21 +14,20 @@ Tecnologías que he utilizado
 - **Arquitectura:** Clean Architecture
 - **Herramientas:** Visual Studio, Visual Studio Code, GitHub
 
-Mis proyectos
+## Mis proyectos
 
-### Sistema de Farmacia
-Sistema para la gestión de una farmacia. El proyecto quedó parcialmente desarrollado.
+### [Sistema Mundialito](https://github.com/Rosmery-Ruiz/Sistema-Mundialito)
 
-### Página web para un negocio
-Sitio web informativo desarrollado con Astro, HTML y CSS.
+Sistema para la gestión de un torneo de fútbol, desarrollado como proyecto académico utilizando C#, ASP.NET Core, Next.js y SQL Server. El backend está organizado utilizando Clean Architecture.
 
-### Sistema de Mundialito
-Proyecto académico desarrollado aplicando Clean Architecture para organizar el código.
+### [Página web para un negocio](https://github.com/Rosmery-Ruiz/RCode-Systems)
 
-### Actualmente
+Sitio web informativo desarrollado para un negocio de servicios tecnológicos, utilizando Astro, HTML, CSS y Tailwind CSS.
+
+## Actualmente
 
 Me encuentro fortaleciendo mis conocimientos en programación, desarrollo de aplicaciones y buenas prácticas de desarrollo de software.
- 
-### Contacto 
+
+## Contacto
 
 - **GitHub:** [Rosmery-Ruiz](https://github.com/Rosmery-Ruiz)
