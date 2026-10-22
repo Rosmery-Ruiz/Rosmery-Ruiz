@@ -1,16 +1,34 @@
-## Hi there 👋
 
-<!--
-**Rosmery-Ruiz/Rosmery-Ruiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! Soy Rosmery Ruiz
 
-Here are some ideas to get you started:
+### Desarrolladora de Software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me gusta la programación y crear soluciones a través de la tecnología. He desarrollado proyectos web y aplicaciones utilizando principalmente C# y .NET. Continúo aprendiendo y fortaleciendo mis conocimientos en el desarrollo de software.
+
+Tecnologías que he utilizado
+
+- **Lenguajes:** C#, HTML, CSS
+- **Backend:** .NET, ASP.NET Core, API REST
+- **Desarrollo web:** Astro
+- **Bases de datos:** SQL Server
+- **Arquitectura:** Clean Architecture
+- **Herramientas:** Visual Studio, Visual Studio Code, GitHub
+
+Mis proyectos
+
+### Sistema de Farmacia
+Sistema para la gestión de una farmacia. El proyecto quedó parcialmente desarrollado.
+
+### Página web para un negocio
+Sitio web informativo desarrollado con Astro, HTML y CSS.
+
+### Sistema de Mundialito
+Proyecto académico desarrollado aplicando Clean Architecture para organizar el código.
+
+### Actualmente
+
+Me encuentro fortaleciendo mis conocimientos en programación, desarrollo de aplicaciones y buenas prácticas de desarrollo de software.
+ 
+### Contacto 
+
+- **GitHub:** [Rosmery-Ruiz](https://github.com/Rosmery-Ruiz)
